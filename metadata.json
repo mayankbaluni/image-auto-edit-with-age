@@ -1,0 +1,5 @@
+{
+  "name": "Image Age & Edit",
+  "description": "Upload an image to see yourself 20 years older and 20 years younger, or use text prompts to apply custom edits, all powered by the Gemini 2.5 Flash Image model.",
+  "requestFramePermissions": []
+}
